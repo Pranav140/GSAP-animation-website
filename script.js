@@ -13,7 +13,7 @@ gsap.to(".text h1",{
 })
 
 gsap.to(".text h1",{
-    delay:2.5,
+    delay:2,
     ease : Expo.easeInOut,
     // duration:2,
     stagger:2,
